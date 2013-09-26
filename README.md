@@ -11,6 +11,6 @@ It will then fetch the DOM of both URLs, display them in iframes, and show you w
 Usage
 -----
 
-# Install the Chrome extension
-# Enter two URLs
-# Enter a CSS selector
+1. Install the Chrome extension
+1. Enter two URLs
+1. Enter a CSS selector
