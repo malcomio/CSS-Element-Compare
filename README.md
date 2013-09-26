@@ -10,6 +10,7 @@ It will then fetch the DOM of both URLs, display them in iframes, and show you w
 
 Usage
 -----
+
 # Install the Chrome extension
 # Enter two URLs
 # Enter a CSS selector
